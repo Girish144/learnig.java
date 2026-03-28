@@ -12,7 +12,7 @@ public class addnumber {
         while (num > 0) {
             int digit = num % 10;   // get last digit
 
-            if (digit == 3) {
+            if (digit == 2) {
                 count++;
             }
 
